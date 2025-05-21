@@ -1,0 +1,11 @@
+Reference,Value,Footprint
+C1,100n,Capacitor_SMD:C_0603_1608Metric
+C2,4.7u,Capacitor_SMD:C_0603_1608Metric
+J1,Conn_02x03_Odd_Even,Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical
+J2,Conn_02x03_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical
+J4,Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical
+Q1-Q3,2N7002,Package_TO_SOT_SMD:SOT-23
+R1-R3,22,Resistor_SMD:R_0805_2012Metric
+"R4, R7-R9",10k,Resistor_SMD:R_0603_1608Metric
+"R5, R6",0R,Resistor_SMD:R_0603_1608Metric
+U1,ATtiny402-SS,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
